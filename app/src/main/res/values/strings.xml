@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AESDeneme4</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">ANAHTARLAR</string>
+    <string name="title_activity_gecmis">Gecmis</string>
+</resources>
